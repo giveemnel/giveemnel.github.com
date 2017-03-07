@@ -1,1 +1,32 @@
+<!DOCTYPE	html>
+<html>
+<head>
+<title>My	first	web	page</title>
+</head>
+<body>
+<style type="text/css">
+  .div1 {
+    background-color:#ffffff;    
+    width: 800px;
+    height: 800px;
+    border: 2px solid #ffbc00;
+    margin-top: 95px;
+}
+  body{
+  background-color:#4dc0d1;
+  background-image:url("http://i1237.photobucket.com/albums/ff474/Crayonkat/Blue-Pattern_zpsltk4io4i.png");
+  background-repeat: repeat;
+  margin: 0;
+  padding: 0;
+  }
+  </style>
+  <div align= center>
+  <div class="div1"><center><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/Testing_zpsnpn0hqi5.png></img><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/Dapper_zpseppgdyzc.png></img>
+ <a href="http://giveemnel.com"><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/Home_zpscjxd4wq1.png></img></a> <a href="http://giveemnel.com"><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/link-1_zpsplmhx2tf.png></img></a>   <a href="http://giveemnel.com"><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/link-2_zpsvp6jkx3r.png></img></a> <a href="http://giveemnel.github.io/images.html"><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/images_zpsksnhr6ao.png></img></a> <a href="http://giveemnel.com"><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/link-34_zpsaoexkz7i.png></img></a>
+
+This is test text. Yay.</center></div></div>
+</div>
+</ul>
+</div>
+</body>
 
