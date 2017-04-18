@@ -1,1 +1,35 @@
 
+<!DOCTYPE	html>
+<html>
+<head>
+<title>My First Website</title>
+</head>
+<body>
+<style type="text/css">
+  .div1 {
+    background-color:#ffffff;    
+    width: 800px;
+    height: 800px;
+    border: 2px solid #ffbc00;
+    margin-top: 95px;
+}
+  body{
+  background-color:#ffb700;
+  background-image:url("http://i1237.photobucket.com/albums/ff474/Crayonkat/Yellow_zpsd1kumgeb.png");
+  background-repeat: repeat;
+  margin: 0;
+  padding: 0;
+  }
+  </style>
+  <div align= center>
+  <div class="div1"><center><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/Testing_zpsnpn0hqi5.png></img><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/Yellow%20Header_zpsyw9lr9gr.png></img> 
+    <br>
+    <br>
+ <a href="http://giveemnel.com"><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/Yellow-Link-Clicked_zpsyum7ki2k.png></img></a>  <a href="http://giveemnel.com/market.html"><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/Purple%20Link_zpsgdebdbwe.png></img></a>    <a href="http://giveemnel.com/wireframe.html"><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/Green%20Link_zpsuzfgvajv.png></img></a>  <a href="http://giveemnel.com/images.html"><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/Blue%20Link_zpskqxw3qa4.png></img></a>  <a href="http://giveemnel.com"><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/Red%20Link_zpswvbmzexg.png></img></a>  <a href="http://giveemnel.com"><img src=http://i1237.photobucket.com/albums/ff474/Crayonkat/Orange%20Link_zpszwy7z0dc.png></img></a>
+<br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qnCl_RJ93D8" frameborder="0" allowfullscreen></iframe></center></div></div>
+</div>
+</ul>
+</div>
+</body>
